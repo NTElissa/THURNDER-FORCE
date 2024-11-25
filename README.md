@@ -1,8 +1,7 @@
-# THURNDER-FORCE
-# join Here !!!! Open ➡️➡️➡️⛷️
-# https://github.com/orgs/Kalumeli/repositories
+## THURNDER-FORCE
+#### join Here !!!! Open ➡️➡️➡️⛷️
+#### https://github.com/orgs/Kalumeli/repositories
 
-# Thunder-Force
 
 # 🌟 JavaScript Level 3 Exercises
 

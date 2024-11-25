@@ -1,6 +1,6 @@
 # THURNDER-FORCE
-# join Here !!!! Open ➡️➡️➡️⛷️
-# https://github.com/orgs/Kalumeli/repositories
+### join Here !!!! Open ➡️➡️➡️⛷️
+### https://github.com/orgs/Kalumeli/repositories
 
 # Thunder-Force
 
